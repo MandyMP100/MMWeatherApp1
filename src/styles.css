@@ -1,0 +1,63 @@
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  text-align: center;
+  color: #611aa3;
+}
+form {
+  margin-top: 20px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  text-align: center;
+  color: #611aa3;
+}
+.btn {
+  background-color: #611aa3;
+  padding: 12px;
+}
+.btn-current {
+  background-color: #caafe6;
+}
+.current-city {
+  color: #611aa3;
+  font-weight: bold;
+  font-size: 28px;
+  margin-left: 30px;
+}
+.current-date {
+  color: #611aa3;
+  font-size: 16px;
+  margin-left: 30px;
+}
+.current-state {
+  color: red;
+  font-weight: bold;
+  font-size: 16px;
+  margin-left: 30px;
+}
+.current-temp {
+  color: #611aa3;
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 30px;
+}
+.forecast {
+  color: #611aa3;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 30px;
+}
+.row {
+  color: #611aa3;
+
+  font-size: 16px;
+  margin-left: 20px;
+}
+.centorfahr {
+  font-size: 18px;
+}
